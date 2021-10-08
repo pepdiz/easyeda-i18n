@@ -59,6 +59,8 @@ Tiếng Việt (Vietnamese) = Tiếng Việt (Vietnamese)
 # ui_data_bn.txt
 বেঙ্গলি (Bengali) = বেঙ্গলি (Bengali)
 
+# ui_data_gl.txt
+Galego (Galician) = Galego (Galician)
 
 
 
